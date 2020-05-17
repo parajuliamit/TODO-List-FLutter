@@ -7,4 +7,4 @@ A to-do list app.
 This app lets you add, check, remove your works. It uses local SQLite database to store yours todos.
 
 ## App Screenshot
-![screenshot]https://github.com/parajuliamit/TODO-List-FLutter/blob/master/scrrenshot.PNG)
+![screenshot](https://github.com/parajuliamit/TODO-List-FLutter/blob/master/scrrenshot.PNG)
